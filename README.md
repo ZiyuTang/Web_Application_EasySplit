@@ -59,4 +59,4 @@ Users can add participant's name by clicking **Sumbit**, and the options of paye
 
 ## <a name="App-Demo"></a>App Demo
 
-For detailed instruction about how to use this app, please watch the video [![How To Use EasySplit For A Better Expenses Sharing Experience](https://drive.google.com/file/d/1uyQBNjfiUH4Hyxa3vsRNzap1QHYX_SqA/view?usp=sharing)](https://drive.google.com/file/d/19unBmGrZ_abt7Oydl7NwW3IoBKU5bdGW/view?usp=sharing)
+For detailed instruction about how to use this app, please watch the video [![How To Use EasySplit For A Better Expenses Sharing Experience](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnextlevelonlinesalestraining.com%2Fp%2Fhow-to-do-a-killer-sales-saas-demo&psig=AOvVaw2civtJn0oeFxabYtUjduDt&ust=1607667025138000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCE_sLgwu0CFQAAAAAdAAAAABAD)](https://drive.google.com/file/d/19unBmGrZ_abt7Oydl7NwW3IoBKU5bdGW/view?usp=sharing)
